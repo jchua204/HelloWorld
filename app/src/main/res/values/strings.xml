@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Bonjour</string>
-    <string name="strButtonCaption">Click please!</string>
+    <string name="strButtonCaption"> Yo Dog, Click please!</string>
+    <string name="strButtonCaption2"> Yo this is a new button!</string>
     <string name="strMessage">Hello Jan!</string>
     <string name="strMessage2">Congratulations!</string>
 </resources>
